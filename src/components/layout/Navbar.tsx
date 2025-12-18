@@ -32,7 +32,7 @@ export function Navbar() {
         {/* Logo */}
         <div className="mr-4 hidden md:flex">
           <Link href="/" className="mr-6 flex items-center space-x-2">
-            <span className="hidden font-bold sm:inline-block text-2xl bg-gradient-to-r from-primary-blue to-primary-purple bg-clip-text text-transparent">WeCure</span>
+            <span className="hidden font-bold sm:inline-block text-2xl bg-gradient-to-r from-primary-blue to-primary-purple bg-clip-text text-transparent">Sahayak</span>
           </Link>
           {/* Main Nav */}
           <nav className="flex items-center space-x-6 text-sm font-medium">

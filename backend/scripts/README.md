@@ -1,4 +1,4 @@
-# WeCure API Setup Scripts
+# Sahayak API Setup Scripts
 
 ## Quick Start
 
@@ -45,24 +45,24 @@ This will:
 
 | Role | Email | Password |
 |------|-------|----------|
-| Patient 1 | patient1@wecure.com | patient123 |
-| Patient 2 | patient2@wecure.com | patient123 |
-| Doctor 1 | doctor1@wecure.com | doctor123 |
-| Doctor 2 | doctor2@wecure.com | doctor123 |
-| Doctor 3 | doctor3@wecure.com | doctor123 |
-| Admin | admin@wecure.com | admin123 |
+| Patient 1 | patient1@sahayak.com | patient123 |
+| Patient 2 | patient2@sahayak.com | patient123 |
+| Doctor 1 | doctor1@sahayak.com | doctor123 |
+| Doctor 2 | doctor2@sahayak.com | doctor123 |
+| Doctor 3 | doctor3@sahayak.com | doctor123 |
+| Admin | admin@sahayak.com | admin123 |
 
 ## Test Data Overview
 
 ### Patients
-- **John Doe** (patient1@wecure.com) - Male, 35 years old
-- **Jane Smith** (patient2@wecure.com) - Female, 28 years old
-- **Bob Johnson** (patient3@wecure.com) - Male, 42 years old
+- **John Doe** (patient1@sahayak.com) - Male, 35 years old
+- **Jane Smith** (patient2@sahayak.com) - Female, 28 years old
+- **Bob Johnson** (patient3@sahayak.com) - Male, 42 years old
 
 ### Doctors
-- **Dr. Sarah Williams** (doctor1@wecure.com) - Cardiology, 10 years exp
-- **Dr. Michael Brown** (doctor2@wecure.com) - Dermatology, 8 years exp
-- **Dr. Emily Davis** (doctor3@wecure.com) - Pediatrics, 12 years exp
+- **Dr. Sarah Williams** (doctor1@sahayak.com) - Cardiology, 10 years exp
+- **Dr. Michael Brown** (doctor2@sahayak.com) - Dermatology, 8 years exp
+- **Dr. Emily Davis** (doctor3@sahayak.com) - Pediatrics, 12 years exp
 
 All doctors have:
 - Active status

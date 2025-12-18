@@ -1,4 +1,4 @@
-# 🚀 WeCure API - Quick Start Guide
+# 🚀 Sahayak API - Quick Start Guide
 
 ## ⚡ 3-Step Setup (2 minutes)
 
@@ -31,12 +31,12 @@ python scripts/get_tokens.py
 
 | Email | Password | Role |
 |-------|----------|------|
-| patient1@wecure.com | patient123 | Patient |
-| patient2@wecure.com | patient123 | Patient |
-| doctor1@wecure.com | doctor123 | Doctor |
-| doctor2@wecure.com | doctor123 | Doctor |
-| doctor3@wecure.com | doctor123 | Doctor |
-| admin@wecure.com | admin123 | Admin |
+| patient1@sahayak.com | patient123 | Patient |
+| patient2@sahayak.com | patient123 | Patient |
+| doctor1@sahayak.com | doctor123 | Doctor |
+| doctor2@sahayak.com | doctor123 | Doctor |
+| doctor3@sahayak.com | doctor123 | Doctor |
+| admin@sahayak.com | admin123 | Admin |
 
 ---
 

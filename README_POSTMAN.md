@@ -1,4 +1,4 @@
-# 🎯 WeCure API - Complete Postman Collection
+# 🎯 Sahayak API - Complete Postman Collection
 
 ## ✅ Everything is Ready!
 
@@ -41,12 +41,12 @@ python scripts/get_tokens.py
 
 | Email | Password | Role | Token Variable |
 |-------|----------|------|----------------|
-| patient1@wecure.com | patient123 | Patient | `patient1_token`, `patient_token` |
-| patient2@wecure.com | patient123 | Patient | `patient2_token` |
-| doctor1@wecure.com | doctor123 | Doctor | `doctor1_token`, `doctor_token` |
-| doctor2@wecure.com | doctor123 | Doctor | `doctor2_token` |
-| doctor3@wecure.com | doctor123 | Doctor | `doctor3_token` |
-| admin@wecure.com | admin123 | Admin | `admin_token` |
+| patient1@sahayak.com | patient123 | Patient | `patient1_token`, `patient_token` |
+| patient2@sahayak.com | patient123 | Patient | `patient2_token` |
+| doctor1@sahayak.com | doctor123 | Doctor | `doctor1_token`, `doctor_token` |
+| doctor2@sahayak.com | doctor123 | Doctor | `doctor2_token` |
+| doctor3@sahayak.com | doctor123 | Doctor | `doctor3_token` |
+| admin@sahayak.com | admin123 | Admin | `admin_token` |
 
 ---
 

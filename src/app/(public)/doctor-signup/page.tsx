@@ -77,7 +77,7 @@ export default function DoctorSignupPage() {
                         </div>
                     </div>
                     <CardTitle className="text-2xl font-bold">Join as a Doctor</CardTitle>
-                    <CardDescription>Register your practice with WeCure</CardDescription>
+                    <CardDescription>Register your practice with Sahayak</CardDescription>
                 </CardHeader>
 
                 <CardContent>

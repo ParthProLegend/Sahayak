@@ -51,7 +51,7 @@ export function DoctorSidebar() {
                         <span className="text-white font-bold">W</span>
                     </div>
                     <span className="font-bold text-xl bg-gradient-to-r from-primary-blue to-primary-purple bg-clip-text text-transparent">
-                        WeCure
+                        Sahayak
                     </span>
                 </Link>
                 <p className="text-xs text-muted-foreground mt-2">Doctor Portal</p>
@@ -118,7 +118,7 @@ export function DoctorSidebar() {
                         <span className="text-white font-bold">W</span>
                     </div>
                     <span className="font-bold text-lg bg-gradient-to-r from-primary-blue to-primary-purple bg-clip-text text-transparent">
-                        WeCure
+                        Sahayak
                     </span>
                 </div>
                 <Sheet>

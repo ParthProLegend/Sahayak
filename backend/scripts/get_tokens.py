@@ -14,12 +14,12 @@ API_PREFIX = "/api/v1"
 
 # Test credentials
 USERS = [
-    {"email": "patient1@wecure.com", "password": "patient123", "name": "Patient 1"},
-    {"email": "patient2@wecure.com", "password": "patient123", "name": "Patient 2"},
-    {"email": "doctor1@wecure.com", "password": "doctor123", "name": "Doctor 1"},
-    {"email": "doctor2@wecure.com", "password": "doctor123", "name": "Doctor 2"},
-    {"email": "doctor3@wecure.com", "password": "doctor123", "name": "Doctor 3"},
-    {"email": "admin@wecure.com", "password": "admin123", "name": "Admin"},
+    {"email": "patient1@sahayak.com", "password": "patient123", "name": "Patient 1"},
+    {"email": "patient2@sahayak.com", "password": "patient123", "name": "Patient 2"},
+    {"email": "doctor1@sahayak.com", "password": "doctor123", "name": "Doctor 1"},
+    {"email": "doctor2@sahayak.com", "password": "doctor123", "name": "Doctor 2"},
+    {"email": "doctor3@sahayak.com", "password": "doctor123", "name": "Doctor 3"},
+    {"email": "admin@sahayak.com", "password": "admin123", "name": "Admin"},
 ]
 
 def get_token(email: str, password: str):
@@ -156,7 +156,7 @@ def update_postman_env(tokens: dict, ids: dict):
 
 def main():
     """Main function"""
-    print("🚀 WeCure Token Generator")
+    print("🚀 Sahayak Token Generator")
     print("=" * 50)
     print(f"📡 Connecting to: {BASE_URL}")
     print()

@@ -80,7 +80,7 @@ export default function LoginPage() {
                             <span className="text-white font-bold text-xl">W</span>
                         </div>
                     </div>
-                    <CardTitle className="text-2xl font-bold">Welcome to WeCure</CardTitle>
+                    <CardTitle className="text-2xl font-bold">Welcome to Sahayak</CardTitle>
                     <CardDescription>Sign in to your account</CardDescription>
                 </CardHeader>
 
